@@ -127,7 +127,7 @@ function scene6() {
     $("#heading1").hide();
     $("#heading2").text("Question 7");
     $("#heading3").hide();
-    $("#heading4").text("What favorite show?");
+    $("#heading4").text("What show would you binge?");
     $("#catImage1").attr("src", "https://m.media-amazon.com/images/M/MV5BMDA0NDBkMzMtOWQ0Zi00NjE1LTkxNWYtYzI0MTE0NGJjZTQ1XkEyXkFqcGc@._V1_.jpg");
     $("#dogImage1").attr("src", "https://m.media-amazon.com/images/M/MV5BZDVkNDYzYWYtMTE3Yi00YTk1LWIwYjMtZTU0MmQ4OWFmZDI5XkEyXkFqcGc@._V1_.jpg");
     $("#fishImage1").attr("src", "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Stranger_Things_season_4.jpg/220px-Stranger_Things_season_4.jpg");
