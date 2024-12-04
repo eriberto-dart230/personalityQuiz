@@ -1,9 +1,6 @@
 let points = 0;
 console.log(points);
 
-//$("#ending1").hide(); 
-//$("#ending2").hide();
-
 $("#button1").on("click", scene1);
 $("#button1").on("click", addpoint);
 
@@ -52,14 +49,7 @@ function scene1() {
     $("#button4").on("click", scene2);
 
 
-    //$("#clicker").attr("href", "https://en.wikipedia.org/wiki/Cat");
-    //$("#catImage1").attr("src", "https://d3544la1u8djza.cloudfront.net/APHI/Blog/2021/07-06/small+white+fluffy+dog+smiling+at+the+camera+in+close-up-min.jpg");
-    //$("#heading").css("color", "green");
-    //$("#heading").addClass("newStyle");
-    //$("#div1").hide();
-    //$("#div2").fadeIn(900);
-    //$("#button1").on("click", scene2);
-    //$("#button2").on("click", scene2);
+    
 }
 
 function scene2() {
