@@ -121,7 +121,7 @@ function scene5() {
     $("#heading2").text("Question 6");
     $("#heading3").hide();
     $("#heading4").text("What superpower would you choose?");
-    $("#catImage1").attr("src", "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Ares_%28Earth-616%29_from_Dark_Wolverine_Vol_1_77_0001.png/revision/latest/scale-to-width-down/300?cb=20120219115132");
+    $("#catImage1").attr("src", "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3eb82776-e914-47f0-91a7-601f6877a204/width=450/00235-2741622734.jpeg");
     $("#dogImage1").attr("src", "https://media.wired.com/photos/59271c6caf95806129f51a3b/master/pass/Earth2AXRayvision1.jpg");
     $("#fishImage1").attr("src", "https://insightcoaching.com/site/wp-content/uploads/Superpower-Guy.jpg");
     $("#birdImage1").attr("src", "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/10/jay-garrick.jpeg");
